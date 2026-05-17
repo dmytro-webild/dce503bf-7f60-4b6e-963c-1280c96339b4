@@ -62,7 +62,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=d11jvf"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=d11jvf&_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/researchers-biotechnology-laboratory-with-plants_23-2148776130.jpg",
@@ -180,7 +180,7 @@ export default function LandingPage() {
           price: "Request Quote",
           rating: 5,
           reviewCount: "500+",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=r3csws",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=r3csws&_wi=1",
         },
         {
           id: "2",
@@ -189,7 +189,7 @@ export default function LandingPage() {
           price: "Request Quote",
           rating: 5,
           reviewCount: "200+",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=jc59j6",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=jc59j6&_wi=1",
         },
         {
           id: "3",
@@ -198,7 +198,7 @@ export default function LandingPage() {
           price: "Request Quote",
           rating: 4,
           reviewCount: "150+",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=o5vi0o",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=o5vi0o&_wi=1",
         },
         {
           id: "4",
@@ -246,7 +246,7 @@ export default function LandingPage() {
           quote: "Oilex has transformed our supply chain consistency.",
           tag: "Global Logistics",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=qb4st7",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=d11jvf",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=d11jvf&_wi=2",
           imageAlt: "portrait professional logistics manager",
         },
         {
@@ -268,7 +268,7 @@ export default function LandingPage() {
           quote: "Top-tier quality levels across every bulk shipment.",
           tag: "Wholesale",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=gcydwz",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=r3csws",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=r3csws&_wi=2",
           imageAlt: "portrait professional logistics manager",
         },
         {
@@ -279,7 +279,7 @@ export default function LandingPage() {
           quote: "Consistent, reliable, and professional every single time.",
           tag: "CPG",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=66zty8",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=jc59j6",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=jc59j6&_wi=2",
           imageAlt: "portrait professional logistics manager",
         },
         {
@@ -290,7 +290,7 @@ export default function LandingPage() {
           quote: "Oilex quality standards are the benchmark of our sector.",
           tag: "Distributor",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=nj8fo3",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=o5vi0o",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=o5vi0o&_wi=2",
           imageAlt: "portrait professional logistics manager",
         },
       ]}
